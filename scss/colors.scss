@@ -1,0 +1,51 @@
+:root,
+:root.light {
+    --primary: #9363c9;
+
+    --font-light: #3d3d3d;
+    --font-grey: #969696;
+    --font-dark: #424242;
+
+
+    --border-light: #f5f5f5;
+    --border-grey-light: #a7a7a7;
+    --border-grey: #e0e0e0;
+
+
+    --background-light: #e2e2e2;
+    --background-grey-light: #e2e2e2;
+    --background-grey: #e2e2e2;
+    --background-grey-dark: #e2e2e2;
+    --background-dark: #e2e2e2;
+    --background-dark-absolute: #e2e2e2;
+
+
+    --success: #69af00;
+    --error: #691f00;
+}
+
+
+:root.dark {
+    --primary: #9363c9;
+
+    --font-light: #f5f5f5;
+    --font-grey: #969696;
+    --font-dark: #424242;
+
+
+    --border-light: #f5f5f5;
+    --border-grey-light: #a7a7a7;
+    --border-grey: #444444;
+
+
+    --background-light: #f5f5f5;
+    --background-grey-light: #eee;
+    --background-grey: #a7a7a7;
+    --background-grey-dark: #363636;
+    --background-dark: #151515;
+    --background-dark-absolute: #000;
+
+
+    --success: #69af00;
+    --error: #691f00;
+}
